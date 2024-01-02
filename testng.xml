@@ -1,0 +1,13 @@
+
+<suite name="StarHealthTests">
+    <test name="starhealth001">
+        <classes>
+            <class name="StarHealthTest"/>
+        </classes>
+    </test>
+    <test name="starhealth002">
+        <classes>
+            <class name="StarHealthTest2"/>
+        </classes>
+    </test>
+</suite>
